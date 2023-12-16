@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.top-div {
+    
+    padding: 20px;
+    font-family: Inter;
+            font-size: 40px;
+            font-weight: 400;
+            line-height: 48px;
+            letter-spacing: 0em;
+            text-align: left;
+}
+
+.top-div h1 {
+    color: #333;
+}
+.top-div a{
+    color: black;
+}
+
+.image {
+    font-family: Inter;
+            font-size: 40px;
+            font-weight: 400;
+            line-height: 48px;
+            letter-spacing: 0em;
+            text-align: left;
+            padding:20px;
+            
+}
+
+.image img {
+    width: 1050px;
+    height: 894px;
+    top: 742px;
+    left: 58px;
+}
+.image a{
+    color:black;
+}
+
+.trivia {
+    font-family: Inter;
+            font-size: 40px;
+            font-weight: 400;
+            line-height: 48px;
+            letter-spacing: 0em;
+            text-align: left;
+            padding:20px;
+}
+
+.trivia h2 {
+    
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 48px;
+    text-align: left;
+}
